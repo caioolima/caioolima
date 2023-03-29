@@ -4,16 +4,20 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=caioolima&bg_color=ffff00&color=000000&line=000000&point=505050&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=caioolima&theme=gruvbox&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-
+<br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caioolima&show_icons=true&count_private=true&hide_border=true&title_color=ffff00&icon_color=ffff00&text_color=ffff00&bg_color=0d1117" alt="Caio Lima github stats" /> 
-   <img width="41%"  height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioolima&hide=TeX,Jupyter%20Notebook&layout=compact&theme=radical&title_color=FFFF00&text_color=ff91a4&bg_color=0d1117"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caioolima&show_icons=true&count_private=true&hide_border=true&title_color=ffff00&icon_color=ffff00&text_color=ffff00&bg_color=0d1117" alt="Caio Lima github stats"/> 
+  <img width="41%" height="195px" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioolima&layout=compact&langs_count=7&theme=jolly&hide_border=true&title_color=ffff00&text_color=ffff00&bg_color=0d1117""/>
 </div>
+
+<br>
 
 <div align="center"> 
   <a href="https://instagram.com/dev.costa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -34,10 +38,16 @@
 <br>
 </div>
 
+<br> 
+
+<div align="center">
+ 
+  ![Snake animation](https://github.com/gc-barros/gc-barros/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer"/>
-
-
 
 
 
