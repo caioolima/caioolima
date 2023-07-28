@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caio+Lima!;I'm+20+years+old!;I'm+from+Brazil!;I+Graduated+of+Systems+and+Analysis+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=caioolima&bg_color=ffff00&color=000000&line=000000&point=505050&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <br>
 
 <p align="center">
