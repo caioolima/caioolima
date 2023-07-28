@@ -26,7 +26,9 @@
  ### Main skills:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JS](https://img.shields.io/github/directory-file-count/:user/:repo/:path)
+![JS]
+![Java]
+![SQL]
 
 
 ### Studying in this moment:
