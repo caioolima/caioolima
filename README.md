@@ -1,4 +1,21 @@
-username=caioolima&show_icons=true&count_private=true&hide_border=true&title_color=ffff00&icon_color=ffff00&text_color=ffff00&bg_color=0d1117" alt="Caio Lima github stats"/> 
+Entrar
+
+Cadastrar
+Você disse:
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caio+Lima!;I'm+20+years+old!;I'm+from+Brazil!;I+Graduated+of+Systems+and+Analysis+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=caioolima&theme=gruvbox&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<br>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caioolima&show_icons=true&count_private=true&hide_border=true&title_color=ffff00&icon_color=ffff00&text_color=ffff00&bg_color=0d1117" alt="Caio Lima github stats"/> 
   <img width="41%" height="195px" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioolima&layout=compact&langs_count=7&theme=jolly&hide_border=true&title_color=ffff00&text_color=ffff00&bg_color=0d1117""/>
 </div>
 
@@ -41,3 +58,4 @@ username=caioolima&show_icons=true&count_private=true&hide_border=true&title_col
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=120&section=footer"/>
+
