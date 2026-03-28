@@ -80,7 +80,9 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/caioolima/escala-digital">
-        <img src="https://raw.githubusercontent.com/caioolima/escala-digital/main/assets/screenshots/creator-dashboard.png" alt="Escala Digital preview" width="100%" />
+         <a href="https://github.com/caioolima/escala-digital">
+      <img src="https://raw.githubusercontent.com/caioolima/escala-digital/master/assets/screenshots/creator-dashboard.png" alt="Escala Digital preview" width="100%" />
+  </a>
       </a>
       <h3>Escala Digital</h3>
       <p>
