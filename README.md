@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:0EA5E9&text=Caio%20Costa%20de%20Souza%20Lima&fontSize=34&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26%20Automation&descAlignY=58&descSize=18&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:0EA5E9&text=Caio%20Costa%20de%20Souza%20Lima&fontSize=34&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Engineer%20%7C%20AI%20%26amp%3B%20Automation&descAlignY=58&descSize=18&animation=fadeIn"
     alt="Caio Costa de Souza Lima banner"
   />
 </p>
