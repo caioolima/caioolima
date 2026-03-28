@@ -129,6 +129,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caioolima&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=CBD5E1&icon_color=2563EB" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioolima&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=CBD5E1" alt="Top languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caioolima&theme=github_dark" alt="GitHub profile summary" />
 </p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caioolima&theme=github_dark" alt="Repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caioolima&theme=github_dark" alt="Most commit language" />
+</p>
+
